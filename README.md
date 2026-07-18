@@ -1,5 +1,5 @@
 # limitx
-基于nacos的分布式限流服务
+基于nacos的分布式限流服务  单key支持1w+qps
 
 <img width="1459" height="517" alt="image" src="https://github.com/user-attachments/assets/09c96921-5015-4385-a03f-d979fbbf01c7" />
 
